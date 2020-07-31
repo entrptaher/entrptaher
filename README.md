@@ -12,7 +12,9 @@ I'm Taher, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. �
 
 You can talk to me about,
 - Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Bootstrap**
-- Backend development using **NodeJS, express, prisma**
+- Backend development using **NodeJS, Express**
+- Database stuff using **Prisma, SQlite, MongoDB, MySQL, PostgreSQL**
+- Full stack stuff using **NextJS, BlitzJS**
 - Web automation using **Puppeteer, Cypress**
 - Deployment stuff using **Docker**
 
