@@ -16,12 +16,12 @@ You can talk to me about,
 - Database stuff using **Prisma, SQlite, MongoDB, MySQL, PostgreSQL**
 - Full stack stuff using **NextJS, BlitzJS**
 - Web automation using **Puppeteer, Cypress**
-- Deployment stuff using **Docker**
+- Deployment stuff using **Docker, Kubernetes**
 
 You can still talk to me about things I am still learning,
 - Frontend stuff like **Vue, Angular**
 - Backend stuff like **Laravel**
 - CMS stuff like **Ghost, Wordpress**
-- Languages like **Rust, PHP 8, Python 3**
+- Languages like **Go, Rust, PHP, Python**
 - Data structures and algorithms
 - Machine Learning
