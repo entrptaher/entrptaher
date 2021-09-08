@@ -6,7 +6,7 @@ I'm Taher, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. �
 
 ### 🔥🔥 Currently working on
 - Co founder and full stack developer at [![](https://avatars2.githubusercontent.com/u/50674207?s=16&v=4) Automatio](https://automatio.co)
-- Founder of [![](https://avatars2.githubusercontent.com/u/44778862?s=16&v=4) Code Eating Ants](https://github.com/code-eating-ants), created [web automation workshops](https://workshop.codeeatingants.com/), [web automation masterclass](https://masterclass.codeeatingants.com/), [wrote blog posts](https://blog.codeeatingants.com/) on different platforms.
+- Founder of [![](https://avatars2.githubusercontent.com/u/44778862?s=16&v=4) Code Eating Ants](https://github.com/code-eating-ants), created [Web Automation Workshops](https://workshop.codeeatingants.com/), [Web Automation Masterclass](https://masterclass.codeeatingants.com/), [wrote blog posts](https://blog.codeeatingants.com/) on different platforms.
 
 ### 🖥 Technologies
 
