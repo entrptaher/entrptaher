@@ -16,7 +16,7 @@ You can talk to me about,
 - Backend development using **NodeJS, Express**
 - Database stuff using **Prisma, SQlite, MongoDB, MySQL, PostgreSQL**
 - Full stack stuff using **NextJS, BlitzJS**
-- Web automation using **Puppeteer, Cypress**
+- Web automation using **Puppeteer, Cypress, Playwright**
 - Deployment stuff using **Docker, Kubernetes**
 
 You can still talk to me about things I am still learning,
