@@ -7,7 +7,7 @@ I'm Taher, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. �
 ### 🔥🔥 Places I have been
 - Software Engineer at [![](https://avatars2.githubusercontent.com/u/1757387?s=16&v=4) ThemeXpert](https://www.themexpert.com/) working on [![](https://avatars2.githubusercontent.com/u/65561215?s=16&v=4) ThriveDesk](https://www.thrivedesk.com/)
 - Software Developer at [![](https://avatars2.githubusercontent.com/u/15325217?s=16&v=4) Vanila.io](https://vanila.io) and Co founder of [![](https://avatars2.githubusercontent.com/u/50674207?s=16&v=4) Automatio](https://automatio.co)
-- Founder of [![](https://avatars2.githubusercontent.com/u/44778862?s=16&v=4) Code Eating Ants](https://github.com/code-eating-ants) and created multiple courses amd taught a few developers from scratch.
+- Founder of [![](https://avatars2.githubusercontent.com/u/44778862?s=16&v=4) Code Eating Ants](https://github.com/code-eating-ants) and created multiple courses and taught a few developers from scratch.
 
 ### 🖥 Technologies
 
